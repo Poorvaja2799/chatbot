@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<link href="../static/css/style.css" rel="stylesheet" type="text/css" />
+<head>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" type="text/css" rel="stylesheet">
+</head>
+<body>
+<form method="post">
+<div class="container">
+    <div class="msg_history" id="msg_history">
+    </div>
+    <div class="type_msg">
+        <div class="input_msg_write">
+            <input type="text" name="message" id="message" class="write_msg" placeholder="Type a message" />
+            <button class="msg_send_btn" type="submit"><i class="fa fa-paper-plane-o" aria-hidden="true"></i></button>
+        </div>
+    </div>
+</div>
+</form>
+<script>
+    var c;
+    function create()
+    {
+        var in_msg = document.createElement("DIV");
+        in_msg.className = "received_withd_msg";
+        var out_msg = document.createElement("DIV");
+        out_msg.className = "sent_msg";
+        var m = document.getElementById("message").value;
+        var para1 = document.createElement("P");
+        var para2 = document.createElement("P");
+        para1.innerHTML=m;
+        c = document.getElementById("msg_history").childElementCount;
+        para2.id = c;
+        out_msg.appendChild(para1);
+        in_msg.appendChild(para2);
+        document.getElementById("msg_history").appendChild(out_msg);
+        document.getElementById("msg_history").appendChild(document.createElement("br"));
+        document.getElementById("msg_history").appendChild(document.createElement("br"));
+        document.getElementById("msg_history").appendChild(in_msg);
+        document.getElementById("msg_history").appendChild(document.createElement("br"));
+        document.getElementById("message").value = "";
+   }
+   $(document).ready(function() {
+        $('form').on('submit', function(event) {
+            $.ajax({
+                data: {
+                    message : $('#message').val()
+                },
+                type: 'POST',
+                url: '/process',
+                success: function() {
+                    create();
+                }
+            })
+            .done(function(data) {
+                $("#"+c).text(data.message).show()
+            });
+            event.preventDefault()
+        });
+    });
+</script>
+</body>
+</html>

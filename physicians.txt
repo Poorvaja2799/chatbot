@@ -1,0 +1,53 @@
+Family Physician
+Family practice physicians see patients of all ages, provide basic care for a variety of common ailments, are usually the first to recognise major health problems, and may order diagnostic tests or refer to a specialist.
+
+Paediatrician
+Paediatricians take care of younger patients, from infancy through age 18 or, in some cases, age 21. Paediatricians provide primary health care to children, including immunisations, well-baby checks, school physicals, and treatment of coughs, colds, and stomach flu, among many other things.
+
+Gynaecologist
+Gynaecologist is a doctor who specialises in women’s reproductive health. Gynaecologists provide women with preventive care, manage pregnancy, labor, and delivery, and diagnose and treat diseases of the reproductive organs. Gynaecologists also specialise in women’s health issues like menopause, hormone problems, contraception, and infertility.
+
+Surgeon
+Surgeons can be trained in general surgery or in more specialised areas of surgery, such as orthopaedic surgery, neurosurgery, cardiac surgery, or vascular surgery. Surgeons spend time planning a surgical procedure, operating in the operating room, and then following up postoperatively to identify complications and to confirm that the procedure was a success.
+
+Psychiatrist
+A psychiatrist treats emotional and behavioural problems through a combination of personal counselling (psychotherapy), psychoanalysis, hospitalisation, and medication. Psychiatrists may be office-based, hospital-based, or a combination of the two. There are a number of different specialty areas within psychiatry. Psychiatrists may focus on child and adolescent psychiatry, addiction medicine, or on treating older people.
+
+Cardiologist
+Cardiology is one of many sub-specialties of internal medicine. Cardiologists focus on treatment of the heart and its blood vessels.
+
+Dermatologist
+Dermatologist is a doctor that specializes in treating skin, hair, nail, and mucous membrane disorders. Dermatologist can also provide support for cosmetic issues, helping patients to revitalize the appearance of their skin, hair, and nails.
+
+Endocrinologist
+Endocrinologists treat the endocrine system—the glands that produce and secrete hormones that control and regulate nearly all of the body’s functions. Endocrinologist also treat people with diabetes or thyroid disease.
+
+Gastroenterologist
+Gastroenterologists treat the digestive system. Gastroenterologist is a physician with dedicated training management of diseases of the gastrointestinal tract and liver.
+
+Infectious Disease Physician
+Infectious disease physicians deal with infections that are hard to diagnose or treat. Infectious disease physicians treat serious infections such as swine flu, bird flu, and HIV/AIDS, among other communicable diseases.
+
+Nephrologist
+Nephrologists treat kidney disease and prescribe dialysis for those experiencing kidney failure.
+
+Ophthalmologist
+Ophthalmologists are medical doctors who treat diseases or disorders of the eyes, such as cataracts and glaucoma. Ophthalmologist performs eye surgery when necessary. Ophthalmologist handle vision correction that cannot be handled by an optometrist.
+
+Otolaryngologist
+Otolaryngologists, also known as otorhinolaryngologists, are more commonly referred to as ENTs, which stands for “ear, nose, and throat.” ENTs cover a lot of issues including sinus problems, allergies, head and neck cancers, and more.
+
+Pulmonologist
+Pulmonologists treat the cardio-pulmonary system, which consists of the organs, including the lungs and heart, that work together to help a person breathe. Pulmonologist often train in critical care medicine in conjunction with pulmonary disease. Pulmonologist also treat breathing disorders, severe allergies, lung problems, and other diseases.
+
+Neurologist
+Neurologists are doctors who take care of patients with medical conditions that affect the brain, spine, or nerves. Neurologists see patients who have complex medical disorders, such as Parkinson’s disease, multiple sclerosis, and neuropathy. Neurologists also take care of patients who have common problems such as migraine headaches and dizziness.
+
+Radiologist
+A radiologist is a physician who is trained in looking at and interpreting diagnostic tests.
+
+Anaesthesiologist
+Anaesthesiologists are trained to manage patient pain and vital signs during surgery. Anaesthesiologists also often manage medical emergencies in the hospital, such as cardiac arrest and sudden breathing problems.
+
+Oncologist
+Oncologists take care of patients who have cancer by treating the cancer itself, as well as the symptoms caused by the disease. Oncologists take part in clinical trials, using new and experimental treatments for cancers that are otherwise incurable.
